@@ -35,4 +35,5 @@ I then used GridSearch for hyperparameter tuning and did the training and testin
 **Next Steps:**
 Our model is showing 90% test accuracy, which is really good, as the next step, we should run a few experimental campaigns and compare the results against the model performance, also we can use campaign results to test and re-train our model. I also feel that there could be more time spent cleaning the data to make sure we are using correct and relevant data.
 
-
+**Here is the link to notebook:**
+https://github.com/chandrasonica/week17application/blob/main/prompt_III.ipynb
