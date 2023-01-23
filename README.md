@@ -33,6 +33,6 @@ I then used GridSearch for hyperparameter tuning and did the training and testin
 3   SVM 0.903680    0.900057    826.374927
 
 **Next Steps:**
-Our model is showing 90% test accuracy, which is really good, as next step we should run few experimental campains and compare the results agains the model performance, also we can use campain results to test and re-train our model.
+Our model is showing 90% test accuracy, which is really good, as the next step, we should run a few experimental campaigns and compare the results against the model performance, also we can use campaign results to test and re-train our model. I also feel that there could be more time spent cleaning the data to make sure we are using correct and relevant data.
 
 
